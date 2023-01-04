@@ -8,3 +8,7 @@ Hi everyone! My name is Yara and I am a former Software Localizer who decided to
 * 🤘 How to reach me: yara.paz.gordillo@gmail.com
 * 🤗 Pronouns: She / Her
 * 🎵 Fun Fact: I am also an Anisinger
+
+### Hot Links
+* 🕶️ https://www.linkedin.com/feed/
+* 🛑(Spanish)https://www.youtube.com/channel/UCJZwm9vi8fGiUAR2VdwjLrQ
