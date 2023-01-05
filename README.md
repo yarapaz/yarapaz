@@ -10,5 +10,5 @@ Hi everyone! My name is Yara and I am a former Software Localizer who decided to
 * 🎵 Fun Fact: I am also an Anisinger
 
 ### Hot Links
-* 🕶️ https://www.linkedin.com/feed/
+* 🕶️ https://www.linkedin.com/in/yara-paz-gordillo/
 * 🛑(Spanish)https://www.youtube.com/channel/UCJZwm9vi8fGiUAR2VdwjLrQ
