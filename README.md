@@ -12,3 +12,6 @@ Hi everyone! My name is Yara and I am a former Software Localizer who decided to
 ### Hot Links
 * 🕶️ https://www.linkedin.com/in/yara-paz-gordillo/
 * 🛑(Spanish)https://www.youtube.com/channel/UCJZwm9vi8fGiUAR2VdwjLrQ
+
+### My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yarapaz)](https://github.com/anuraghazra/github-readme-stats)
