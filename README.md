@@ -11,5 +11,5 @@ Hi everyone! My name is Yara and I am a former Software Localizer who decided to
 
 ### Hot Links
 * 🕶️ https://www.linkedin.com/in/yara-paz-gordillo/
-* 🛑(Spanish)https://www.youtube.com/channel/UCJZwm9vi8fGiUAR2VdwjLrQ
+* 🛑(Spanish) https://www.youtube.com/channel/UCJZwm9vi8fGiUAR2VdwjLrQ
 
