@@ -2,8 +2,8 @@
 
 Hi everyone! My name is Yara and I am a former Software Localizer who decided to dig deeper into the architecture she was translating to learn a complete new language and become a Web Developer. I love to work in dynamic environments that can offer me challenges to achieve and I am always willing to learn. No matter what is the problem, I am sure I will find the solution. Feel free to reach out:
 
-* 🏋️ I'm a Spanish Web Developer currently learning
-* 📟 I'm open to work and opportunities to continue growing as a professional
+* 🏋️ I'm a Spanish Web Developer currently studying at 42 Madrid
+* 📟 Actively working in IDEO (Ideas desde cero) company as a Full Stack Developer
 * 🤖 I love to collaborate on new projects so don't hesitate to ask me! I'll be there for you!
 * 🎵 I am also an Anisinger, but shh, it's a secret
 
